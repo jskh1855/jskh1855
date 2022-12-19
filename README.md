@@ -1,7 +1,13 @@
+<p> <img src="https://komarev.com/ghpvc/?username=goodGid" alt="hedythedev" /> </p>
 ## This is 형석's Github
+
+
 
 ## ✔ Experiences
 - `2022.01 ~ ` Software Engineer at Gmarket
+
+
+
 
 ## ✔ Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/java-276DC3?style=flat&logo=java&logoColor=white"/> 
