@@ -1,4 +1,3 @@
-<p> <img src="https://komarev.com/ghpvc/?username=goodGid" alt="hedythedev" /> </p>
 ## This is 형석's Github
 
 
